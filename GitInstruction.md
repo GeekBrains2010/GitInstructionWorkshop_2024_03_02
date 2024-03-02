@@ -47,6 +47,6 @@
 
 # Система одновременных версий (CVS)
 
-# Apache Subversion (SVN)
+# Apache Subversion (SVN).
 
 
